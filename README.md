@@ -173,7 +173,7 @@ blog-cms/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/blog-cms-backend.git
+git clone https://github.com/ajinkya029/blog-cms.git
 ```
 
 ```bash
